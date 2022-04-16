@@ -1,0 +1,10 @@
+9
+40C:\Users\10059\Desktop\web\taiji\.vscode132945981689874616 1
+44C:\Users\10059\Desktop\web\taiji\src\main.js132945993791569503 0
+37C:\Users\10059\Desktop\web\taiji\dist132945993566144623 1
+36C:\Users\10059\Desktop\web\taiji\src132945916782543705 1
+47C:\Users\10059\Desktop\web\taiji\src\index.html132945993826421173 0
+52C:\Users\10059\Desktop\web\taiji\.vscode\launch.json132945981689874616 0
+59C:\Users\10059\Desktop\web\taiji\dist\index.de158e3a.js.map132945993566114596 0
+55C:\Users\10059\Desktop\web\taiji\dist\index.de158e3a.js132945991404753132 0
+48C:\Users\10059\Desktop\web\taiji\dist\index.html132945989199955337 0
